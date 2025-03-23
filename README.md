@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
+
+
+<h1 align="left">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
 - 🔭 I’m currently working on [buissnes website for the Tatrzański parking](https://parkingtatrzanski.netlify.app/)
