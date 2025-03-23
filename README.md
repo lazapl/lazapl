@@ -5,7 +5,13 @@
 
 - 🔭 I’m currently working on parking site for small buissnes:
   <img src="parkingZdj.JPG" alt="project1"/>
+  <img src="https://camo.githubusercontent.com/44059541e82482d15a51d37935c0fb6b684a9b00226739491be20bbc72c3f59d/68747470733a2f2f72656163746e61746976652e6465762f696d672f6865616465725f6c6f676f2e737667" alt="react" height="30" width="30"/>
 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="react" height="30" width="30"/>
+
+    <img src="https://camo.githubusercontent.com/52643e404ca1a1d90beb0095ebddda4b16b8c30dfcfeb5d42355a2df037c7c8e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="react" height="30" width="30"/>
+
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="react" height="30" width="30"/>
 - 🌱 Community Website: **
 <img src="kox.JPG" alt="project1"/>
 
