@@ -3,7 +3,8 @@
 <h1 align="left">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on [buissnes website for the Tatrzański parking](https://parkingtatrzanski.netlify.app/)
+- 🔭 I’m currently working on parking site for small buissnes:
+  <img src="parkingZdj.JPG" alt="project1"/>
 
 - 🌱 Community Website: **
 <img src="kox.JPG" alt="project1"/>
