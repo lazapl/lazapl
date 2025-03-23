@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate Frontend Developer from Poland</h3>
+<h1 align="left" style="color: #0077b6;">Hi 👋, I'm Daniel</h1>
+<h3 align="center" style="color: #00b4d8;">A passionate Frontend Developer from Poland</h3>
 
 ---
 
