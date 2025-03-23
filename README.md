@@ -17,7 +17,3 @@ Additionally, I’m also working on a community website:
 
 ![Community Website](kox.JPG)
 
----
-
-
-Thank you for visiting my profile! 😄
