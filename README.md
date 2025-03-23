@@ -5,6 +5,7 @@
 
 - <p>I’m currently working on parking site for small buissnes:</p>
   <img src="parkingZdj.JPG" alt="project1"/>
+  <h2>Used Technollogys</h2>
   <img src="https://camo.githubusercontent.com/44059541e82482d15a51d37935c0fb6b684a9b00226739491be20bbc72c3f59d/68747470733a2f2f72656163746e61746976652e6465762f696d672f6865616465725f6c6f676f2e737667" alt="react" height="30" width="30"/>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="react" height="30" width="30"/>
